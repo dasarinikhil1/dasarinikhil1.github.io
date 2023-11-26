@@ -8,9 +8,8 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Interesting Facts',  url: 'facts'}
-- {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
+- {name: 'Resources', url: 'resources'}
+- {name: 'Overview',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
